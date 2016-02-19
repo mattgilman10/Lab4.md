@@ -8,7 +8,7 @@ Needed to add parathenses to one of the sentences
 
 We changed some a spelling error in chapter 5.2
 
-From onscreen to on-scree
+From onscreen to on-screen
 
 ##Good Documentation
 
